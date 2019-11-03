@@ -26,6 +26,11 @@ img{
 	left: 90px;
 }
 
+#_2{
+	z-index: 3;
+	left: 0;
+}
+
 #_1{
 	left: 50px;
 }
