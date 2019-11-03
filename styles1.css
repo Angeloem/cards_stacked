@@ -24,6 +24,7 @@ img{
 
 #_3{
 	left: 90px;
+	z-index: 1;
 }
 
 #_2{
@@ -32,5 +33,6 @@ img{
 }
 
 #_1{
+	z-index: 2;
 	left: 50px;
 }
