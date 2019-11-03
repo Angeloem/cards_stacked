@@ -1,3 +1,7 @@
+body{
+	background: whitesmoke;
+}
+
 .mainframe{
 	position: relative;
 }
@@ -9,6 +13,8 @@
 	height: 500px;
 	width: 500px;
 	object-fit: cover;
+	border-radius: 10px;
+	overflow: hidden;
 }
 
 img{
@@ -17,8 +23,9 @@ img{
 }
 
 #_3{
-	left: 50px;
-	border: 5px solid dodgerblue;
+	left: 90px;
 }
 
-
+#_1{
+	left: 50px;
+}
